@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ramanprtap/weatherCheck.git/static/css/main.4c040b22.chunk.css",
+    "main.js": "/ramanprtap/weatherCheck.git/static/js/main.77cc9f0c.chunk.js",
+    "main.js.map": "/ramanprtap/weatherCheck.git/static/js/main.77cc9f0c.chunk.js.map",
+    "runtime-main.js": "/ramanprtap/weatherCheck.git/static/js/runtime-main.05b747b3.js",
+    "runtime-main.js.map": "/ramanprtap/weatherCheck.git/static/js/runtime-main.05b747b3.js.map",
+    "static/js/2.a4fb13ee.chunk.js": "/ramanprtap/weatherCheck.git/static/js/2.a4fb13ee.chunk.js",
+    "static/js/2.a4fb13ee.chunk.js.map": "/ramanprtap/weatherCheck.git/static/js/2.a4fb13ee.chunk.js.map",
+    "index.html": "/ramanprtap/weatherCheck.git/index.html",
+    "precache-manifest.63871c7d6d3de6a3e7ba0bd27a0e02b8.js": "/ramanprtap/weatherCheck.git/precache-manifest.63871c7d6d3de6a3e7ba0bd27a0e02b8.js",
+    "service-worker.js": "/ramanprtap/weatherCheck.git/service-worker.js",
+    "static/css/main.4c040b22.chunk.css.map": "/ramanprtap/weatherCheck.git/static/css/main.4c040b22.chunk.css.map",
+    "static/js/2.a4fb13ee.chunk.js.LICENSE.txt": "/ramanprtap/weatherCheck.git/static/js/2.a4fb13ee.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ramanprtap/weatherCheck.git/static/media/warm-bg.635ed87d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05b747b3.js",
+    "static/js/2.a4fb13ee.chunk.js",
+    "static/css/main.4c040b22.chunk.css",
+    "static/js/main.77cc9f0c.chunk.js"
+  ]
+}
